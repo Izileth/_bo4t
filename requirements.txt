@@ -1,0 +1,11 @@
+pandas
+openpyxl
+matplotlib
+ccxt
+python-telegram-bot
+python-dotenv
+reportlab
+pytz
+yfinance
+python-telegram-bot[job-queue]
+requests
